@@ -8,7 +8,7 @@ client = discord.Client()
 @client.event
 async def on_ready():
     await client.change_presence(activity = discord.Activity(name = configs.WATCHING_STATUS, type = discord.ActivityType.watching))
-    print(str(client.user) + " is started.")
+    print("Bot is ready. Logged in as {0.user}")
 
 @client.event
 async def on_member_ban(gld, usr):
@@ -132,3 +132,19 @@ async def on_message(msg):
         return
     if msg.content.startswith(".reason ") and msg.channel.name == configs.MOD_LOG_CHANNEL_NAME:
         await edit_reason(msg)
+
+
+@client.command()
+async def ping(ctx):
+    latency = bot.latency * 1000  # convert to ms
+
+    embed = discord.Embed(
+        title="Pong!",  # make an embed to send
+        description=f"My latency is {latency:.2f}ms",
+        )
+
+    await ctx.send(embed=embed)
+
+
+
+client.run('token here')
