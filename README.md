@@ -13,7 +13,7 @@ Things I'm adding:
 - [x] Ping Command
 - [ ] Message Alerts
 
-[Youtube](https://www.youtube.com/channel/UCYBsKHI6N-nIO9DGkEsR6xg?sub_confirmation=1) 
+[Youtube](https://www.youtube.com/channel/UCYBsKHI6N-nIO9DGkEsR6xg?sub_confirmation=1) \n
 [Discord](https://https://discord.gg/77Mw4GDbxg) 
 [Twitter](https://https://twitter.com/JustEnderBoi1) 
 
