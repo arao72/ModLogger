@@ -1,0 +1,1 @@
+• For the token, if you already have the client.run("...") on the bottom, you may delete the definition in configs.py, because that's what I did. I added it in case of people working in groups.
