@@ -13,14 +13,14 @@ Things I'm adding:
 - [x] Ping Command
 - [ ] Message Alerts
 
+Want more features added? Let me know at my discord or dm me : JustEnderBoi#0001
+
 [Youtube](https://www.youtube.com/channel/UCYBsKHI6N-nIO9DGkEsR6xg?sub_confirmation=1) 
 
 <br />
-
 [Discord](https://https://discord.gg/77Mw4GDbxg) 
 
 <br />
-
 [Twitter](https://https://twitter.com/JustEnderBoi1) 
 
 
