@@ -13,7 +13,7 @@ Things I'm adding:
 - [x] Ping Command
 - [ ] Message Alerts
 
-Want more features added? Let me know at my discord or dm me : JustEnderBoi#0001
+Want more features added? Let me know at my discord or dm me : JustEnderBoi#9999
 
 [Youtube](https://www.youtube.com/channel/UCYBsKHI6N-nIO9DGkEsR6xg?sub_confirmation=1) 
 
